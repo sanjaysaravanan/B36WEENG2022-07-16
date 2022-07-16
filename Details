@@ -1,0 +1,43 @@
+Recap:
+
+  Previous Session
+
+  setTimeout -> Execute a set of statements after specific milliseconds
+  
+  setInterval -> Execute a set of statments repeatedly/frequently with specific interval in milliseconds
+
+Topics:
+
+  Events:
+
+    removal of events
+
+    bubbling
+
+    capturing
+
+    stop propagation
+
+    event execution only once
+
+    event DOM Creation:
+
+    Discussion for Task
+      Pagination
+      calculator
+
+    Example Task:
+      table creation
+
+  Callback
+
+    simple callback functions
+
+    visualize the working of callback functions ( sampele, compute & display funcs )
+
+    sync & async operations in the JS
+
+  use & purpose of the callback
+
+  pain of callback
+
